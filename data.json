@@ -1,0 +1,178 @@
+[
+    {
+      "id": "575084573a2404eec25acdcd",
+      "title": "Id sint ex consequat ut.",
+      "journal": "First Journal",
+      "volume": 54,
+      "number": 6,
+      "pages": "255-268",
+      "year": 2011,
+      "authors": [
+        {
+          "firstname": "Kerr",
+          "lastname": "Berry",
+          "institution": "Skyplex",
+          "email": "Kerr@Skyplex.info"
+        },
+        {
+          "firstname": "Fischer",
+          "lastname": "Farmer",
+          "institution": "Digique",
+          "email": "Fischer@Digique.biz"
+        },
+        {
+          "firstname": "Brandie",
+          "lastname": "Reed",
+          "institution": "Fanfare",
+          "email": "Brandie@Fanfare.com"
+        },
+        {
+          "firstname": "Martinez",
+          "lastname": "Bradford",
+          "institution": "Comveyer",
+          "email": "Martinez@Comveyer.name"
+        },
+        {
+          "firstname": "Lula",
+          "lastname": "Charles",
+          "institution": "Gadtron",
+          "email": "Lula@Gadtron.tv"
+        }
+      ],
+      "abstract": "Do occaecat reprehenderit dolore proident nulla magna nostrud aliquip dolore. Officia minim eiusmod eu minim ea labore velit ea. Voluptate sit deserunt duis reprehenderit.",
+      "link": "http://ea.ca/575084573a2404eec25acdcd.pdf",
+      "keywords": [
+        "aute",
+        "nisi",
+        "adipisicing",
+        "fugiat",
+        "qui"
+      ],
+      "body": "Quis pariatur velit ipsum tempor eu ad. Do nisi dolore tempor anim eiusmod in ea aliqua velit fugiat culpa sunt ea. Labore sint officia  Adipisicing occaecat incididunt sunt labore elit. Pariatur officia nulla anim labore enim non labore laborum eu eu"
+    },
+    {
+      "id": "5750845735dff7db71032593",
+      "title": "Consectetur velit do esse laborum duis cillum mollit Lorem aliquip occaecat.",
+      "journal": "Second Journal",
+      "volume": 11,
+      "number": 11,
+      "pages": "277-302",
+      "year": 1987,
+      "authors": [
+        {
+          "firstname": "Beck",
+          "lastname": "Browning",
+          "institution": "Snowpoke",
+          "email": "Beck@Snowpoke.us"
+        },
+        {
+          "firstname": "Tracy",
+          "lastname": "Vaughn",
+          "institution": "Zaggle",
+          "email": "Tracy@Zaggle.me"
+        },
+        {
+          "firstname": "Britney",
+          "lastname": "Hudson",
+          "institution": "Exozent",
+          "email": "Britney@Exozent.net"
+        },
+        {
+          "firstname": "Alissa",
+          "lastname": "Perez",
+          "institution": "Buzzmaker",
+          "email": "Alissa@Buzzmaker.org"
+        },
+        {
+          "firstname": "Darlene",
+          "lastname": "Love",
+          "institution": "Hydrocom",
+          "email": "Darlene@Hydrocom.co.uk"
+        }
+      ],
+      "abstract": "Anim labore nulla et et sunt. Esse ad enim velit culpa irure. Irure cillum culpa velit exercitation voluptate sint. Incididunt voluptate minim ipsum est sint amet sit esse. Laboris aute ut sint nulla consectetur nulla non veniam dolore eu aute exercitation. Commodo aute ea duis qui officia quis nisi consequat adipisicing enim magna dolore nisi. Lorem est duis dolor sint est id culpa. Sunt proident consectetur ex deserunt do adipisicing fugiat incididunt nulla aliquip officia. Occaecat esse dolor voluptate aute et ad deserunt commodo nisi. Lorem ipsum cupidatat nostrud nisi Lorem minim ut excepteur aute.",
+      "link": "http://reprehenderit.io/5750845735dff7db71032593.pdf",
+      "keywords": [
+        "ipsum",
+        "nostrud",
+        "commodo",
+        "fugiat"
+      ],
+      "body": "Adipisicing nulla mollit sunt deserunt. Dolor nostrud velit reprehenderit dolor dolore. Sunt officia culpa labore officia cupidatat commodo eiusmod sit cupidatat aliqua ullamco et sit Lorem. Amet cupidatat laboris anim mollit"
+    },
+    {
+      "id": "575084570b63f5fd28d23f48",
+      "title": "Et duis laborum id laborum qui reprehenderit laborum.",
+      "journal": "Third Journal",
+      "volume": 18,
+      "number": 12,
+      "pages": "247-265",
+      "year": 2013,
+      "authors": [
+        {
+          "firstname": "Leticia",
+          "lastname": "Ingram",
+          "institution": "Acruex",
+          "email": "Leticia@Acruex.info"
+        }
+      ],
+      "abstract": "Ea velit aute ipsum tempor excepteur sint magna labore et occaecat. Exercitation nulla officia enim qui ex proident ullamco quis irure. Ut ullamco proident et culpa fugiat qui. Excepteur laborum consectetur mollit dolore fugiat proident et sint.",
+      "link": "http://dolor.biz/575084570b63f5fd28d23f48.pdf",
+      "keywords": [
+        "irure",
+        "consequat",
+        "incididunt"
+      ],
+      "body": "Enim occaecat incididunt irure Lorem id. Proident enim duis dolore culpa ut velit consequat excepteur ullamco sit excepteur cupidatat minim qui. Aliqua sunt ipsum magna non non elit consequat voluptate adipisicing. Ipsum ad ut in irure non eu ea. Non sit enim ipsum ea nisi officia do incididunt minim ipsum mollit laboris deserunt labore."
+    },
+    {
+      "id": "575084573ae731ef0dc821c6",
+      "title": "Nisi sunt ea eiusmod elit irure amet esse magna.",
+      "journal": "Fourth Journal",
+      "volume": 40,
+      "number": 7,
+      "pages": "133-162",
+      "year": 1985,
+      "authors": [
+        {
+          "firstname": "Rosario",
+          "lastname": "Waters",
+          "institution": "Unq",
+          "email": "Rosario@Unq.com"
+        },
+        {
+          "firstname": "Gonzalez",
+          "lastname": "Klein",
+          "institution": "Ginkogene",
+          "email": "Gonzalez@Ginkogene.name"
+        },
+        {
+          "firstname": "Corina",
+          "lastname": "Fischer",
+          "institution": "Orboid",
+          "email": "Corina@Orboid.tv"
+        },
+        {
+          "firstname": "Sonia",
+          "lastname": "Adams",
+          "institution": "Pyramis",
+          "email": "Sonia@Pyramis.ca"
+        },
+        {
+          "firstname": "Curry",
+          "lastname": "Sharpe",
+          "institution": "Cytrak",
+          "email": "Curry@Cytrak.us"
+        }
+      ],
+      "abstract": "Lorem anim deserunt mollit dolore consectetur dolor ex amet do et tempor sunt. Officia nulla magna aliqua mollit voluptate mollit culpa minim. Ad eiusmod magna exercitation anim sint ut consequat adipisicing veniam irure minim. Dolore aute adipisicing elit quis in in laboris excepteur minim. Velit veniam labore pariatur duis anim esse. Duis non aute ullamco ex voluptate in nulla est enim sit dolore. Et cupidatat aliqua commodo veniam incididunt ea proident dolore elit et amet mollit minim. Exercitation amet nisi consectetur irure nulla proident esse do ullamco veniam ea sint qui.",
+      "link": "http://pariatur.me/575084573ae731ef0dc821c6.pdf",
+      "keywords": [
+        "irure",
+        "cupidatat",
+        "nostrud"
+      ],
+      "body": "Ea exercitation nostrud ullamco ad sit sint occaecat do ullamco magna. Eu aute exercitation deserunt velit. Et minim ex do anim adipisicing commodo elit. Laborum excepteur minim ea incididunt ipsum esse non laboris consequat mollit exercitation ea. Eiusmod irure dolor pariatur ad est irure excepteur aliquip quis voluptate aute et eiusmod fugiat."
+    }
+]
+   
