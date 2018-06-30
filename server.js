@@ -60,8 +60,8 @@ async function indexData() {
     bulkIndex('library', 'article', articles);
   };
 
-// indexData();
-// verify();
+indexData();
+verify();
 // searchData();
 searctTerm();
 
